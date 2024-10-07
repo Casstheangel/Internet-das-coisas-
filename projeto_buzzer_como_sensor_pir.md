@@ -8,7 +8,7 @@
    -  Buzzer piezoelétrico: Utilizado para emitir sons ou alarmes.
    -  Fios jumper: Conectam os componentes na protoboard ao Arduino.
 ## montagem do circuito
-  ![imagem do circuito](projeto_bizzer_como_sensor_pir.png) 
+  ![imagem do circuito](projeto_buzzer_como_sensor_pir.png) 
 ## Explicação do Circuito:
   -  Arduino Uno: A placa principal que controla todo o circuito. Ela é programada para ler os sinais dos sensores e controlar os atuadores.
   -  Protoboard: Usada para montar o circuito de forma prática e sem a necessidade de solda.
